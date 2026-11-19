@@ -79,8 +79,6 @@ Os livros e artigos abaixo são indicados como referências para o conteúdo da 
 ## Autor
 
 **Bruno R. R. Boaretto**  
-Instituto de Física — Universidade de São Paulo (USP)
-
 ---
 
 *Material didático preparado para fins acadêmicos e educacionais.*
