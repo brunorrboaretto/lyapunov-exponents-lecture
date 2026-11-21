@@ -34,29 +34,6 @@ O repositório reúne o plano de aula, a atividade proposta, os slides, figuras 
 - `sensibilidade_lorenz_10_condicoes_iniciais.py`: evolução de dez trajetórias com condições iniciais próximas no sistema de Lorenz, ilustrando a sensibilidade às condições iniciais.
 - `espectro_lyapunov_lorenz.py`: integração do sistema de Lorenz e das equações variacionais, com ortonormalização periódica para estimar o espectro de Lyapunov.
 
-## Como executar os códigos
-
-Os scripts foram desenvolvidos em Python e utilizam principalmente:
-
-- NumPy
-- SciPy
-- Matplotlib
-
-Para gerar vídeos em MP4, é necessário também ter o **FFmpeg** instalado e disponível no sistema.
-
-Instalação das bibliotecas:
-
-```bash
-python -m pip install numpy scipy matplotlib
-```
-
-Verifique a instalação do FFmpeg com:
-
-```bash
-ffmpeg -version
-```
-
-Execute os scripts a partir de seus respectivos diretórios, observando os parâmetros definidos no início de cada arquivo.
 
 ## Referências
 
@@ -77,7 +54,6 @@ Os livros e artigos abaixo são indicados como referências para o conteúdo da 
    [https://doi.org/10.1007/BF02128237](https://doi.org/10.1007/BF02128237).
 
 ## Autor
-
 **Bruno R. R. Boaretto**  
 ---
 
