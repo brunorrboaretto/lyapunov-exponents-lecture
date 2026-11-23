@@ -11,8 +11,7 @@ O repositório reúne o plano de aula, a atividade proposta, os slides, figuras 
 ├── README.md
 ├── plano_de_aula.pdf
 ├── atividade_proposta.pdf
-├── slides/
-│   └── aula_expoentes_lyapunov.pdf
+├── aula_expoentes_lyapunov.pdf
 ├── figuras/
 │   ├── figura.py
 │   └── figura.png
